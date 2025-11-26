@@ -10,10 +10,10 @@ This repository serves as the central index for every PlayEra application. It co
 - [admin-portal](https://github.com/rafaathzanar/playera-admin-portal)  
   React + TypeScript admin interface for monitoring KPIs, managing users/venues, and configuring platform-wide settings.
 
-- [playera_mobile]([https://example.com/playera_mobile](https://github.com/rafaathzanar/playera_mobile_frontend))  
+- [playera_mobile](https://github.com/rafaathzanar/playera_mobile_frontend)  
   Expo-based mobile client that lets players discover venues, reserve slots, manage equipment, and track loyalty perks.
 
-- [venue-owner-dashboard]([https://example.com/venue-owner-dashboard](https://github.com/rafaathzanar/playera-owner-dashboard))  
+- [venue-owner-dashboard](https://github.com/rafaathzanar/playera-owner-dashboard)  
   React dashboard for venue owners to curate listings, review booking calendars, and analyze facility performance.
 
 ## Usage
